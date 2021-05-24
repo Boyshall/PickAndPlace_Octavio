@@ -11,3 +11,6 @@ https://github.com/sphawes/index
 https://github.com/openpnp/openpnp-openbuilds/wiki/Build-Instructions
 
 https://www.hackster.io/news/build-a-pick-and-place-machine-with-openbuilds-hardware-and-smoothieboard-controller-762e88aa5a9e
+
+
+Lien vers le drive : https://drive.google.com/drive/folders/1M1s1Hu4Qb4BAin-c-wKEoXXjmgE7_Jfz?usp=sharing
