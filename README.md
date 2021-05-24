@@ -7,3 +7,7 @@ Projet de 2eme année ayant pour objectifs de créer une pick and place pour l'e
 https://mcuoneclipse.com/2018/06/26/building-a-diy-smt-pickplace-machine-with-openpnp/
 
 https://github.com/sphawes/index
+
+https://github.com/openpnp/openpnp-openbuilds/wiki/Build-Instructions
+
+https://www.hackster.io/news/build-a-pick-and-place-machine-with-openbuilds-hardware-and-smoothieboard-controller-762e88aa5a9e
